@@ -1,2 +1,1 @@
-# Bean-Byte
-Personal Project
+# Personal Project: November 23, 2026
