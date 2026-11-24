@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(83, 37, 19);
+    padding: 0px;
+    margin: 0px;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    font-family: "inter", sans-serif;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin: 0px;
+    padding: 3px;
+    overflow: hidden;
+}
+
+ul li a {
+    display: block;
+    color: white;
+}
