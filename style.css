@@ -83,7 +83,9 @@ body {
 .menu button {
     background-color: rgb(65, 151, 61);
     padding: 6px;
+    width: 6%;
     color: white;
     font-family: "inter", sans-serif;
     border-radius: 6px;    
 }
+
