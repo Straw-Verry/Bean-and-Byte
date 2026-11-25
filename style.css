@@ -1,6 +1,6 @@
 header {
     background-color: rgb(83, 37, 19);
-    padding: 0px;
+    padding: 5px;
     margin: 0px;
 }
 
@@ -15,8 +15,9 @@ ul {
     list-style: none;
     justify-content: center;
     margin: 0px;
-    padding: 3px;
+    padding: 5px;
     overflow: hidden;
+    background-color: rgb(42, 19, 10);
 }
 
 ul li a {
@@ -34,4 +35,11 @@ body {
     background-color: rgba(112, 45, 19, 0.507);
     padding: 0px;
     margin: 0px;
+}
+
+.home h2 {
+    text-align: center;
+    color: white;
+    font-family: "inter", sans-serif;
+    font-size: 30px;
 }
