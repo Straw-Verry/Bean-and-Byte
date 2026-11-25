@@ -59,9 +59,27 @@ body {
 .blog p {
     font-size: 20px;
     font-family: "helvetica", sans-serif;
+    color: white;
+    text-align: center;
 }
 
-.main {
+.post {
     background-color: rgba(42, 19, 10, 0.432);
-    padding: 5px;
+}
+
+.menu h2 {
+    text-align: center;
+    font-family: "inter", sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+.menu p {
+    font-size: 20px;
+    font-family: "helvetica", sans-serif;
+    text-align: center;
+}
+
+.menu button {
+    background-color: rgb(142, 246, 110);
 }
